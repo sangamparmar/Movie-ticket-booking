@@ -8,8 +8,7 @@ The purpose of this project is to improve my full-stack web development skills, 
 
 ## Technologies
 * React v18.2.0
-* React Router Dom v6.14.2
-* React Hook Form v7.45.4
+* React 
 * Tailwind CSS v3.3.3
 * Vite v4.4.8
 * NodeJS

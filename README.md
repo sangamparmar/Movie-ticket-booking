@@ -6,16 +6,6 @@ Movie ticket booking web application with MERN stack (MongoDB, Express, React, N
 ## Project Purpose
 The purpose of this project is to improve my full-stack web development skills, learning front-end technologies like React and Tailwind CSS, and backend technologies like Node.js, Express, and MongoDB.
 
-## Technologies
-* React v18.2.0
-* React 
-* Tailwind CSS v3.3.3
-* Vite v4.4.8
-* NodeJS
-* Mongoose v7.4.2
-* Express v4.18.2
-* MongoDB
-* And more...
 
 ## Quick Tour
 <h2 align="center">Home Page 🎥</h2>

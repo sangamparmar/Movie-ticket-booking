@@ -1,9 +1,5 @@
 <h1 align="center">Cinema-Booking</h1>
 
-Movie ticket booking web application with MERN stack (MongoDB, Express, React, NodeJS) & Tailwind CSS
-* [How to run the app](#how-to-run-the-app)
-
-## Project Purpose
 The purpose of this project is to improve my full-stack web development skills, learning front-end technologies like React and Tailwind CSS, and backend technologies like Node.js, Express, and MongoDB.
 
 
